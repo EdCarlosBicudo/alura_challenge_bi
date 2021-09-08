@@ -1,2 +1,4 @@
-# alura_challenge_bi
+# Alura Challenge BI
 #alurachallengebi
+
+Conteúdo desenvolvido durante o desafio Alura Challenge BI
