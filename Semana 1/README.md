@@ -13,4 +13,9 @@
   </ul>
 
   <p> Bases de dados: <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing">Link</a> </p>
+<h2><b>Dashboard</b></h2>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzljNGU2YmItMTU5OS00YjQ3LWIwZmEtOTVmMjk1NWJhZTg1IiwidCI6ImI5ZjE4MTdmLTBjZDAtNDhiOS04YmE3LTkxNWQyY2M2NTFjNSJ9&pageName=ReportSection">Link para o dashboard</a>
+<br>
+<br>
+<img src="power bi/dashboard.png">
 <br>
