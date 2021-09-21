@@ -13,3 +13,9 @@ A nossa missão é apoiar a gerência em suas <b>tomadas de decisão</b>, e eluc
   </ul>
 
   <p> Bases de dados: <a href="https://drive.google.com/drive/folders/11JDlvVgOh1nTMeLe0QNkXt6LuVw14phF?usp=sharing">Link</a> </p>
+<h2><b>Dashboard</b></h2>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODg3NjBiZmMtOGRhZC00OTVhLTk1M2ItYTBhNWJjNjE1ODA4IiwidCI6ImI5ZjE4MTdmLTBjZDAtNDhiOS04YmE3LTkxNWQyY2M2NTFjNSJ9">Link para o dashboard</a>
+<br>
+<br>
+<img src="power bi/dashboard.png">
+<br>
