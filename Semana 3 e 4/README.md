@@ -19,3 +19,18 @@ Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
   </ul>
 
   <p> Bases de dados: <a href="https://drive.google.com/drive/folders/1TlDFHt6Vgoc6It4OD7URbxICz2YpVRIs?usp=sharing">Link</a> </p>
+<h2><b>Dashboard</b></h2>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWJiNmFjY2EtZjE4Mi00MzI1LTgwMjktNWJmOWNhMzU4YjQwIiwidCI6ImI5ZjE4MTdmLTBjZDAtNDhiOS04YmE3LTkxNWQyY2M2NTFjNSJ9">Link para o dashboard</a>
+<br>
+<br>
+<b>Relatório Financeiro</b>
+<br>
+<br>
+<img src="power bi/dashboard_1.png">
+<br>
+<br>
+<b>Análise de Cenários</b>
+<br>
+<br>
+<img src="power bi/dashboard_2.png">
+<br>
